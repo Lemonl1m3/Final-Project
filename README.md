@@ -1,5 +1,9 @@
 # Final-Project
 
+Summary:
+    The goal of this project was create a platformer that continues as long as the player isn't killed.  The platforms would generate at random positions continously making the game different every time you play it.  The goal of the game is to see how long you can survive while the difficulty ramps up.
+
+
 What I learned:
   I learned a lot about collisions and how to make a never ending cycle that changes the farther in you are
 
